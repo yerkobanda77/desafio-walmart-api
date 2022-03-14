@@ -41,7 +41,7 @@ git checkout develop
 ```
 npm install
 ```
-* <b>Configurar host mongoDb:</b> validar archivo src\db\index.js
+* <b>Configurar host mongoDb:</b> validar archivo .env
 * <b>Levantar server MongoDB</b>
 * <b>Ejecución por defecto:</b> 
 ```
