@@ -8,23 +8,23 @@
 5. [Especificación de la API](/README.md#5-especificación-de-la-api)
 
 ## 1. Equipo Dueño del Proyecto
-    Responsable y Dueño del Proyecto:
-    - <b>Responsable:</b> EQUIPO AZUL
-    * <b>Contacto:</b> yerko.banda@hotmail.com
+Responsable y Dueño del Proyecto:
+- <b>Responsable:</b> EQUIPO AZUL
+* <b>Contacto:</b> yerko.banda@hotmail.com
 
 ## 2. Integrantes del Equipo
-    - <b>Proyecto:</b> desafio-walmart-api
-    - <b>Product Owner:</b> Juan Perez
-    * <b>Contacto:</b> juan.perez@hotmail.com
-    - <b>Scrum Master:</b> Alan Brito
-    * <b>Contacto:</b> alan.brito@hotmail.com
-    - <b>Dev Team:</b>
-        * Yerko Banda M.
-        * <b>Contacto:</b> yerko.banda@hotmail.com
+- <b>Proyecto:</b> desafio-walmart-api
+- <b>Product Owner:</b> Juan Perez
+* <b>Contacto:</b> juan.perez@hotmail.com
+- <b>Scrum Master:</b> Alan Brito
+* <b>Contacto:</b> alan.brito@hotmail.com
+- <b>Dev Team:</b>
+* Yerko Banda M.
+* <b>Contacto:</b> yerko.banda@hotmail.com
 
 ## 3. Descripción y Objetivo
-    * <b>Descripción:</b> api para evualacion de postulacion a walmart.
-    * <b>Objetivo:</b> El objetivo de esta API es poder obtener los productos listados dentro de una busqueda.
+* <b>Descripción:</b> api para evualacion de postulacion a walmart.
+* <b>Objetivo:</b> El objetivo de esta API es poder obtener los productos listados dentro de una busqueda.
 
 ## 4. Manual de Instalación
 <b>Especifica la forma en que se ejecuta la aplicación:</b>
