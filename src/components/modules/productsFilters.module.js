@@ -94,12 +94,7 @@ function setProduct(element, isPalindrome){
 function searchPalindrome(params){
     const { search } = params;
     const searchReversed = search.split("").reverse().join("");
-    if(search === searchReversed){
-        return true;
-    } 
-    else {
-        return false;
-    }
+    return (search === searchReversed);
 }
 
 module.exports = {productsFiltersModule};
