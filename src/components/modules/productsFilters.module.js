@@ -29,12 +29,11 @@ async function productsFiltersModule(params) {
         }
 
         //Config response
-        const response = {
+        return {
             code: "PFM.0000",
             message: "Successful OK",
             result
         };
-        return response;
     } catch (error) {
         if (error instanceof ModuleError) {
             throw error;
@@ -97,8 +96,10 @@ function searchPalindrome(params){
     const searchReversed = search.split("").reverse().join("");
     if(search === searchReversed){
         return true;
+    } 
+    else {
+        return false;
     }
-    return false;
 }
 
 module.exports = {productsFiltersModule};

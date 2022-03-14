@@ -21,7 +21,7 @@ async function main() {
   )
 
   const errorTypes = ['unhandledRejection', 'uncaughtException']
-  errorTypes.map(type => {
+  errorTypes.forEach(type => {
     process.on(type, async e => {
       try {
         console.log(`process.on ${type}`)

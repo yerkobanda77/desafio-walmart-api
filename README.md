@@ -31,7 +31,7 @@ Responsable y Dueño del Proyecto:
 <br>
 * <b>Clonar repositorio:</b> 
 ```
-git clone 
+git clone https://github.com/yerkobanda77/desafio-walmart-api.git
 ```
 * <b>Cambiar a rama Dev:</b> 
 ```

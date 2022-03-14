@@ -27,3 +27,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+  jest:        
+    uses: ziishaned/jest-reporter-action@v0.0.1
+    with:
+      github-token: ${{ secrets.GITHUB_TOKEN }}
+      test-command: "yarn jest --coverage"
